@@ -1,1 +1,1 @@
-SELECT * FRM Users WHERE role=1;
+SELECT * FROM user where role=1;
