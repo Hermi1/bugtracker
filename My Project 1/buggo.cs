@@ -1,4 +1,4 @@
-//new
+//empty
 if (VersionControl.createRepo(project))
 {
     this.createLocalFile();
